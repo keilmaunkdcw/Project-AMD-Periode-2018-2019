@@ -1,0 +1,55 @@
+/*   CSS Form Pendaftaran   */
+
+.input{
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	padding: 2px;
+	padding-left: 5px;
+	margin-top: -5px;
+	border-radius: 5px;
+}
+
+.form-rekrutmen{
+	margin-left: 93px;
+}
+
+.formulir{
+	width: 280px;
+	display: inline-grid;
+}
+
+label{
+	font-size: 15px;
+	margin-top: 13px;
+}
+
+.input{
+	width: 220px;
+	float: left;
+}
+
+.input-radio{
+	margin-left: 5px;
+	margin-top: -5px;
+	margin-bottom: -7px;
+}
+
+.jkl{
+	margin-right: 5px;
+	padding-left: 3px;
+	display: inline-block;
+}
+
+.submit{
+	font-family: 'Roboto', sans-serif;
+	background-color: #F44336;
+	padding: 5px;
+	font-size: 17px;
+	border-radius: 5px;
+	color: white;
+	width: 88.7%; 
+}
+
+.submit:hover{
+	background-color: #B40000;
+}

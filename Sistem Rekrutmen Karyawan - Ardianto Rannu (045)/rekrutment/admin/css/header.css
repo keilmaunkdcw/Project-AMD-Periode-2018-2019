@@ -1,0 +1,187 @@
+
+/* CSS HEADER */
+
+#header{
+	width: 100%;
+    height: 155px;
+	margin-left:auto; 
+	margin-right:auto;
+    display: block;
+}
+
+.tulisan1{
+    font-family: 'Patua One', cursive;
+    text-align: left;
+    font-size: 17px;
+    color: #F5F5F5;
+    padding-top: 26px;
+    padding-left: 20px;
+    margin-left: 200px;
+}
+
+.tulisan2
+{
+	font-family: 'Patua One', cursive;
+	text-align: left;
+	font-size: 28px;
+	color: #F5F5F5;
+    padding-left: 20px;
+    margin-left: 200px;
+}
+.tulisan3
+{
+    font-family: 'Dancing Script', cursive;
+    text-align: left;
+    font-size: 22px;
+    color: #F5F5F5;
+    padding-left: 65px;
+    padding-top: 5px;
+    margin-left: 200px;
+}
+
+.tulisan{
+    display: inline-block;
+}
+/* CSS Logo Icon Phone dan Email */
+
+.logo{
+    float: right;
+    display: inline-block;
+    padding-top: 25px;
+}
+
+.logophone {
+    float: left;
+    padding-right: 6px;
+    padding-top: 1px;
+    width: 39px;
+    height: 39px;
+
+}
+
+.tulisancontact{
+    float: left;
+    font-family: 'Patua One', cursive;
+    font-size: 15px;
+    color: #F5F5F5;
+    padding-right: 35px;
+    padding-top: 0px;
+
+}
+ 
+.contact{
+    float: right;
+    margin-right: -10px;
+}
+
+.bordertengah{
+
+    float: right;
+    margin-top: -5px;
+    margin-right: 7px;
+}
+
+.logoemail {
+    float: left;
+    padding-right: 8px;
+    padding-top: 2.5px;
+    width: 32px;
+    height: 33px;
+
+}
+
+.tulisanemail{
+    float: right;
+    font-family: 'Patua One', cursive;
+    font-size: 15px;
+    color: #F5F5F5;
+    padding-top: 0px;
+    margin-right: 57px;
+
+}
+
+.email{
+
+    float: right;
+    margin-left: 15px;
+    padding: 0px;
+    height: 30px;
+}
+
+.logocontactemail{
+    padding-top: -10px;
+}
+
+
+
+.instagram {
+    float: right;
+    padding-right: 12px;
+    padding-left: 10px;
+    width: 30px;
+    height: 30px;
+
+}
+
+.fb {
+    float: right;
+    padding-right: 5px;
+    padding-left: 10px;
+    width: 45px;
+    height: 32px;
+
+}
+
+.twitter {
+    float: right;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 30px;
+    height: 30px;
+
+}
+
+.telegram {
+    float: right;
+    padding-right: 5px;
+    padding-left: 7px;
+    width: 30px;
+    height: 31px;
+
+}
+
+.follow{
+    float: right;
+    font-family: 'Patua One', cursive;
+    font-size: 15px;
+    color: #F5F5F5;
+    padding-right: 22px;
+    padding-top: 20px;
+
+}
+
+.call{
+    display: block;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.sosmed{
+    float: right;
+    margin-right:  150px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    display: block;
+    opacity: 0.7;
+}
+
+.logoperusahaan{
+    float: left;
+    width: 105px;
+    height: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 30px;
+}

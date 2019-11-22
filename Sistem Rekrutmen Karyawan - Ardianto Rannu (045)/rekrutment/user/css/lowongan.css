@@ -1,0 +1,45 @@
+/* CSS Table Lowongan */
+
+.lowongan{
+	height: 475px;
+	overflow: scroll;
+}
+
+.table-lowongan{
+	font-size: 17px;
+}
+
+.judul-lowongan{
+	font-size: 22px;
+	padding-top: 25px;
+	text-align: center;
+}
+
+.syarat{
+	text-align: left;
+	padding-left: 170px;  
+}
+
+.deskripsi{
+	text-align: left;
+	padding-left: 170px; 
+}
+
+.tombol-lamar{
+	border-bottom: solid 1px black;
+	padding-bottom: 25px;  
+	text-decoration: none; 
+}
+
+.tombol{
+	color: white;
+	background-color: #EC3737;
+	padding: 3px;
+	border-radius: 5px;
+	margin-left: 15px;
+}
+
+.tombol:hover{
+	color: white;
+	background-color: #D50909;
+}

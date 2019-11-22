@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="jam_tayang">
+        <item name="jam_tayang">Jam tayang</item>
+        <item name="03:00">03:00</item>
+        <item name="05:00">05:00</item>
+        <item name="06:00">06:00</item>
+        <item name="07:00">07:00</item>
+    </array>
+</resources>

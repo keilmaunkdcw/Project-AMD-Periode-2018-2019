@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="Hari">
+        <item name="Hari">Hari</item>
+        <item name="Senin">Senin</item>
+        <item name="Selasa">Selasa</item>
+        <item name="Rabu">Rabu</item>
+        <item name="Kamis">Kamis</item>
+    </array>
+</resources>

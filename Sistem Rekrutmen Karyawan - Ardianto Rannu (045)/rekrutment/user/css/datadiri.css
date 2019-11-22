@@ -1,0 +1,76 @@
+/* CSS DATA DIRI PESERTA */
+
+.foto{
+	height: 120px;
+	width: 120px;
+    border-radius: 50%; 
+    margin-left: 400px;
+}
+
+p{
+	margin-top: 20px;
+	margin-left: 400px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;	
+}
+
+.isiprofil{
+	margin-left: 110px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+}
+
+.profilkiri{
+	display: inline-grid;
+	width: 420px;
+}
+
+.profilkanan{
+	display: inline-grid;    /* Sifat inline-grid akan mengikuti attribut css elemen disampingnya */
+}
+
+label{
+	display: inline-block;
+	text-align: right;
+	width: 130px;
+}
+
+.nama{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.tgllahir{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.jkl{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.email{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.nik{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.nohp{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.alamat{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.agama{
+	display: inline-block;
+	margin-left: 10px;
+}

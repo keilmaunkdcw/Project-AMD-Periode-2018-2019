@@ -1,0 +1,10 @@
+/*  CSS Menu Dashboard */
+
+.tombol-dbs1:hover{
+	background-color: #F44336;
+}
+
+.border-dsb{
+	border-right: 7px solid; 
+	border-right-color: #F44336;
+}

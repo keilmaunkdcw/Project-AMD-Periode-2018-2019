@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Poliklinik</string>
+    <string name="title_activity_halaman_utama_admin">Halaman_utama_admin</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">User dan Dokter</string>
+    <string name="title_notifications">Verifikasi Antrian</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

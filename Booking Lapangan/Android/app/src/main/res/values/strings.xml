@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">reservasi lapangan futsal</string>
+    <string name="title_activity_menu__bottom">Menu_Bottom</string>
+    <string name="pemesan">Pemesan</string>
+    <string name="lapangan">Lapangan</string>
+    <string name="search">Search</string>
+
+</resources>

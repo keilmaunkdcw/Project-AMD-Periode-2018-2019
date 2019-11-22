@@ -1,0 +1,1 @@
+Kebutuhan informasi semakin mudah didapatkan dimanapun dan kapanpun. Atas dasar itulah yang mendorong  perancangan Sistem informasi objek wisata berbasis website ini. Dengan adanya Sistem informasi objek wisata berbasis website ini maka masyarakat dapat dengan mudah mengakses dan mendapatkan informasi- informasi terbaru setiap saat.

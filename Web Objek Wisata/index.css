@@ -1,0 +1,15 @@
+body{
+	background-image: url("admin/wall.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+@font-face{
+	font-family: 'tulisan_keren';
+	src: url(font/Goldfinger.ttf)
+}
+
+.menuhome{
+	color:  #ff0080;
+}

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/gambar1"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:padding="25dp"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/et_namapasien"
+            android:layout_marginBottom="30dp"
+            android:hint="Nama Pasien"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:textSize="20sp"
+            android:hint="Jenis Kelamin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <RadioGroup
+            android:id="@+id/rg_jnskelamin"
+            android:layout_marginBottom="30dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RadioButton
+                android:id="@+id/rb_laki"
+                android:text="Laki-laki"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="50dp"/>
+            <RadioButton
+                android:id="@+id/rb_perempuan"
+                android:text="Perempuan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RadioGroup>
+
+        <Spinner
+            android:id="@+id/spin_golongandarah"
+            android:padding="15dp"
+            android:layout_marginBottom="30dp"
+            android:entries="@array/golongandarah"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </Spinner>
+
+        <EditText
+            android:id="@+id/et_alamat"
+            android:layout_marginBottom="30dp"
+            android:gravity="top"
+            android:hint="Alamat"
+            android:layout_width="match_parent"
+            android:layout_height="120dp" />
+
+        <EditText
+            android:id="@+id/et_umur"
+            android:layout_marginBottom="30dp"
+            android:hint="Umur"
+            android:inputType="number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/et_riwayatpenyakit"
+            android:layout_marginBottom="30dp"
+            android:gravity="top"
+            android:hint="Riwayat Penyakit"
+            android:layout_width="match_parent"
+            android:layout_height="120dp" />
+
+        <EditText
+            android:id="@+id/et_nohandhpone"
+            android:layout_marginBottom="30dp"
+            android:hint="No Handphone"
+            android:inputType="phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_simpan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Simpan"
+                android:layout_marginRight="30dp"/>
+
+            <Button
+                android:id="@+id/btn_batal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Batal"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

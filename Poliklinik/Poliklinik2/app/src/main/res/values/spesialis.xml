@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="spesialis">
+        <item name="Spesialis">Spesialis</item>
+        <item name="Poli Anak">Poli Anak</item>
+        <item name="Poli Gigi">Poli Gigi</item>
+        <item name="Poli Umum">Poli Umum</item>
+    </array>
+</resources>

@@ -1,0 +1,31 @@
+
+/* CSS Tombol Daftar dan Login */
+
+.daftarlogin{
+    margin-left: 275px;
+    margin-top: 6px;
+}
+
+.daftarlogin li{
+    display: inline-flex;
+}
+
+.daftarlogin li a{
+	background-color: #F5F5F5;
+    font-size: 18px;
+    color: black;
+    font-family: 'Patua One', cursive;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    margin-top: 20px; 
+    border-radius: 40px;
+    position: relative;
+    margin: 3px;
+}
+
+.daftarlogin li a:hover{
+    background-color: rgb(223, 8, 37);
+    border-radius: 40px;

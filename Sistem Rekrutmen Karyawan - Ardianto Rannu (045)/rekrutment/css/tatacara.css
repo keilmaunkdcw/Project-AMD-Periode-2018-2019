@@ -1,0 +1,70 @@
+
+/* CSS Tata cara rekrutment */
+
+.line1{
+	padding-right: 100px;
+	padding-left: 100px;
+	width: 100%;
+}
+
+.tulisanline1{
+	font-family: 'Poppins', sans-serif;
+	color: #413F3F;
+	background-image: url('../img/background1.jpg');
+    opacity: 0.8; 
+	font-size: 13px;
+	padding: 10px;
+	padding-top: 15px;
+	padding-bottom: 25px;
+	text-align: left;
+}
+
+.nomor{
+	font-family: 'Poppins', sans-serif;
+	color: #413F3F;
+	background-image: url('../img/background1.jpg');
+    opacity: 0.8; 
+	font-size: 50px;
+	display: inline-block;
+	float: left;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
+
+.tulisanline2{
+	font-family: 'Poppins', sans-serif;
+	color: #413F3F;
+	background-image: url('../img/background1.jpg');
+    opacity: 0.8; 
+	font-size: 13px;
+	padding: 10px;
+	padding-right: 95px;
+	text-align: left;
+	display: inline-block;
+	width: 100%;
+}
+
+.nomor2{
+	font-family: 'Poppins', sans-serif;
+	color: #413F3F;
+	background-image: url('../img/background1.jpg');
+    opacity: 0.8; 
+	font-size: 50px;
+	display: inline-block;
+	float: left;
+	padding-right: 20px;
+	padding-left: 100px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.nomor3{
+	font-family: 'Poppins', sans-serif;
+	color: #413F3F;
+	font-size: 50px;
+	display: inline-block;
+	float: left;
+	padding-right: 20px;
+	padding-left: 100px;
+	padding-top: 5px;
+}

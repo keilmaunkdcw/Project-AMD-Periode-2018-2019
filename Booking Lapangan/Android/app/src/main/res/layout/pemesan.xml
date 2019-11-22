@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="30dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Isi Data"
+            android:gravity="center"
+            android:layout_margin="8dp"
+            android:padding="10dp"
+            android:textSize="30sp"
+            android:textColor="#fff"
+            android:textStyle="bold"/>
+
+            <EditText
+                android:id="@+id/et_nama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:background="@drawable/kolom"
+                android:drawableRight="@drawable/ic_user"
+                android:hint="Nama"
+                android:textColor="#fff"
+                android:textColorHint="#fff"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/et_nik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:background="@drawable/kolom"
+                android:drawableRight="@drawable/ic_person_black"
+                android:hint="Nik"
+                android:textColor="#fff"
+                android:textColorHint="#fff"
+                android:inputType="phone"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/et_no_hp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:background="@drawable/kolom"
+                android:drawableRight="@drawable/ic_call_black_24dp"
+                android:textColor="#fff"
+                android:textColorHint="#fff"
+                android:hint="No.Telp"
+                android:inputType="phone"
+                android:padding="10dp" />
+
+            <EditText
+                android:id="@+id/et_alamat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:background="@drawable/kolom"
+                android:drawableRight="@drawable/ic_location_on_black_24dp"
+                android:hint="Alamat"
+                android:textColor="#fff"
+                android:textColorHint="#fff"
+                android:padding="10dp" />
+
+        <TextView
+            android:id="@+id/tv_tgl_sewa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:textColor="#fff"
+            android:textColorHint="#fff"
+            android:background="@drawable/kolom"
+            android:drawableRight="@drawable/ic_date_range_black_24dp"
+            android:drawablePadding="20dp"
+            android:hint="Tanggal sewa"
+            android:padding="10dp"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_jam_mulai"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:background="@drawable/kolom"
+            android:drawableRight="@drawable/ic_jam_mulai"
+            android:drawablePadding="20dp"
+            android:hint="Jam Mulai"
+            android:padding="10dp"
+            android:textColor="#fff"
+            android:textColorHint="#fff"
+            android:textSize="20sp" />
+
+            <EditText
+                android:id="@+id/et_lawa_jam_sewa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:background="@drawable/kolom"
+                android:drawableRight="@drawable/ic_jam_selesai"
+                android:hint="Lama Jam Sewa"
+                android:inputType="number"
+                android:textColor="#fff"
+                android:textColorHint="#fff"
+                android:padding="10dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp">
+
+            <Button
+                android:id="@+id/btn_send"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/btn_blue"
+                android:text="send"
+                android:textColor="#fff" />
+
+            <Button
+                android:id="@+id/btn_lihat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_blue"
+                android:text="lihat"
+                android:textColor="#fff" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

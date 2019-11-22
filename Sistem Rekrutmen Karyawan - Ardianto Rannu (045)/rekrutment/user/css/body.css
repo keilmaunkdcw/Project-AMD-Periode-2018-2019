@@ -1,0 +1,169 @@
+
+/* CSS element BODY */
+
+.word1{
+	font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    color: #3B3BB9;
+}
+
+.word2{
+	font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: #333333;
+}
+
+.gambar1{
+    float: none;
+    width: 1200px;
+    width: 800px;
+    margin-left: 73px;  
+    opacity: 0.2;
+    position: absolute;
+
+}
+
+.word3{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 18px;
+    color: black;
+    padding-top: 25px;
+}
+
+.word4{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: black;
+}
+
+.word5{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    padding-top: 5px;
+}
+
+.word6{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 13px;
+    color: black;
+    padding-bottom: 10px;
+}
+
+hr{
+    color: #CD1B1B;
+}
+
+
+
+.tambah1{
+    color: white;
+    background-color: #EC3737;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.tambah1:hover{
+    background-color: #DE1C1C;
+}
+
+.edit{
+    float: left;
+}
+
+.edit2{
+    float: left;
+    margin-left: 280px;
+}
+
+.edit3{
+    padding-left: 130px;
+}
+
+.edit4{
+    float: left;
+}
+
+.edit5{
+    float: left;
+}
+
+.edit6{
+    float: left;
+    margin-left: 0px;
+}
+
+.edit8{
+    float: left;
+}
+
+.edit9{
+    float: left;
+    margin-left: 30px;
+}
+
+.edit10{
+    float: left;
+    margin-left: 80px;
+}
+
+.input1{
+    float: left;
+    margin-left: 70px;
+}
+
+.input2{
+    float: left;
+    margin-left: 25px;
+}
+
+.input3{
+    float: left;
+    margin-left: 35px;
+}
+
+.label1{
+    font-size: 13px;
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
+}
+
+.input4{
+    float: left;
+    margin-left: 83px;
+}
+
+.input5{
+    float: left;
+    margin-left: 96px;
+}
+
+.input6{
+    float: left;
+    margin-left: 21px;
+}
+
+.input7{
+    float: left;
+    margin-left: 74px;
+}
+
+.input8{
+    float: left;
+    margin-left: 8px;
+}
+
+.input9{
+    float: left;
+    margin-left: 120px;
+}
+
+.inputphoto{
+    float: left;
+    margin-left: 18px;
+}

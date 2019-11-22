@@ -1,0 +1,56 @@
+
+/* CSS menu */
+
+.backgroundmenu{  
+    height: 50px;
+    padding-left: 60px;
+    border-top: solid 3px #9F1717; 
+    border-bottom: solid 3px #9F1717;
+    display: flex;
+}
+
+.daftarmenu li{
+    display: inline-flex;
+}
+
+.material-icons{
+    width: 25px;
+    padding-left: 10px;
+    padding-right: 2px;
+    height: 50px;
+    padding-top: 12px;
+    color: white;
+}
+
+.daftarmenu li a{
+    font-size: 18px;
+    color: #F5F5F5;
+    font-family: 'Patua One', cursive;
+    padding-right: 5px;
+    text-decoration: none;
+    position: relative;
+    padding-top: 13px;
+    margin-bottom: 11px;
+}
+
+.daftarmenu li:hover{
+    background-color: #B0071D;
+    height: 48px;
+    border-bottom: 5px solid;
+    border-bottom-color: #F5F5F5;
+    transition: 0.3s;
+    transition-timing-function: ease-in-out;
+}
+
+ .daftarmenu2{
+    background-color: #B0071D;
+    height: 48px;
+    border-bottom: 5px solid;
+    border-bottom-color: #F5F5F5;
+}
+
+.navbar{
+  top: 130px;
+  width: 100%;
+  display: inline;
+}
